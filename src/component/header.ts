@@ -11,7 +11,7 @@ const head = nashi
     tw`bg-green-400 py-12 flex px(8 md:12 lg:24) items-center flex-col md:flex-row`
   );
 
-const container = nashi.create("div").id("head-container");
+const container = nashi.create("div").id("head-container").class(tw`w-full`)
 head.append(container);
 
 const cover = nashi
