@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@akrc/nashi': ^0.2.1
-  '@akrc/ringo': ^0.1.3
+  '@akrc/ringo': ^1.0.0
   motion: ^10.14.3
   twind: ^0.16.17
   typescript: ^4.8.4
@@ -10,7 +10,7 @@ specifiers:
 
 dependencies:
   '@akrc/nashi': 0.2.1
-  '@akrc/ringo': 0.1.3
+  '@akrc/ringo': 1.0.2
   motion: 10.14.3
   twind: 0.16.17_typescript@4.8.4
 
@@ -24,8 +24,8 @@ packages:
     resolution: {integrity: sha512-Yj1j2vBakFHVGCnPwZuqdPBfTbjkjl7v2jxlC/fjNtRLgxUJZPFrJJCuJoPhCQ4D40DkYUdRlzrWeyP6CM8iDQ==}
     dev: false
 
-  /@akrc/ringo/0.1.3:
-    resolution: {integrity: sha512-1ZnYfRXrjx/TV65bIZCMvKMeNIFsrfMYB9RTiWSTjr5NPO4DHQHiLos8i4S4uyfGrPYtEa/kehQKyEUss/yzFQ==}
+  /@akrc/ringo/1.0.2:
+    resolution: {integrity: sha512-loIzYSLQLqoC+Ut+X9Gy4afOYsBzBflbZK+YI7PajKu+TZ0onVo0XS0RibVJPkEKDUV0ebZuwGgdl1t0PIRK6A==}
     dev: false
 
   /@esbuild/android-arm/0.16.3:
