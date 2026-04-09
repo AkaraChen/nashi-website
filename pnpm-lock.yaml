@@ -9,7 +9,7 @@ specifiers:
   vite: ^4.0.0
 
 dependencies:
-  '@akrc/nashi': 0.2.1
+  '@akrc/nashi': 0.2.4
   '@akrc/ringo': 1.0.2
   motion: 10.14.3
   twind: 0.16.17_typescript@5.0.2
@@ -20,8 +20,8 @@ devDependencies:
 
 packages:
 
-  /@akrc/nashi/0.2.1:
-    resolution: {integrity: sha512-Yj1j2vBakFHVGCnPwZuqdPBfTbjkjl7v2jxlC/fjNtRLgxUJZPFrJJCuJoPhCQ4D40DkYUdRlzrWeyP6CM8iDQ==}
+  /@akrc/nashi/0.2.4:
+    resolution: {integrity: sha512-6JgP4oANwExStVhCsFt4tojzIdhRIP0ODu1MHPa9aPag6fVhz6bNTuYAtfzB61kjNluJGxm1bUoVX7a855Puhg==}
     dev: false
 
   /@akrc/ringo/1.0.2:
@@ -352,8 +352,8 @@ packages:
       '@esbuild/win32-x64': 0.16.3
     dev: true
 
-  /fsevents/2.3.2:
-    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
+  /fsevents/2.3.3:
+    resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
@@ -438,7 +438,7 @@ packages:
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /source-map-js/1.0.2:
@@ -509,5 +509,5 @@ packages:
       resolve: 1.22.1
       rollup: 3.7.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
